@@ -1,6 +1,8 @@
 # Satlf2009
 An open source version of the azulsatlf.weatherscan.me client.
 
+Faster then the offical client only loading the images before they are needed.
+
 I DO NOT RUN THE SERVER AT PHONEHOME.AWNETWORK.NET. I DID NOT MAKE THE CLIENT AT azulsatlf.weatherscan.me. THE CLIENT PROVIDED HERE IS A CUSTOM CLIENT MADE IN http://penguinmod.com AND DOES NOT CONTAIN ANY COPYRIGHT CODE OR IMAGES. THE SLIDESHOW IS LOADED AT RUNTIME AND IS NOT STORED IN THE CODE.
 
 Precompiled and source files are avalible.
