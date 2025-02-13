@@ -5,6 +5,8 @@ Precompiled and source files are avalible.
 
 Doesn't come with any music to avoid copyright and file size issues.
 
+NOTE: If it's not loading, close the tab and wait a minute. The server is refreshing the radar, as such the simulator will refuse to load as a failsafe instead of just showing nothing for the radar.
+
 ## Technical Writeup:
 The Sat LF simulator (and subsequently Azul Sat LF simulator), are almost completly server-side programs, the client just being a audio player with a slideshow.
 
