@@ -5,7 +5,7 @@ I DO NOT RUN THE SERVER AT PHONEHOME.AWNETWORK.NET. I DID NOT MAKE THE CLIENT AT
 
 Precompiled and source files are avalible.
 
-Doesn't come with any music to avoid copyright and file size issues.
+Music will be coming soon.
 
 NOTE: If it's not loading, close the tab and wait a minute. The server is refreshing the radar, as such the simulator will refuse to load as a failsafe instead of just showing nothing for the radar.
 
