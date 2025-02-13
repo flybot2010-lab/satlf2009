@@ -1,7 +1,7 @@
 # Satlf2009
 An open source version of the azulsatlf.weatherscan.me client.
 
-Azul Sat LF Server Created by PJFRIX.
+Azul Sat LF Server Created by PJFRIX and other people who are to scared to share their username.
 
 I DO NOT RUN THE SERVER AT PHONEHOME.AWNETWORK.NET. I DID NOT MAKE THE CLIENT AT azulsatlf.weatherscan.me. THE CLIENT PROVIDED HERE IS A CUSTOM CLIENT MADE IN http://penguinmod.com AND DOES NOT CONTAIN ANY COPYRIGHT CODE OR IMAGES. THE SLIDESHOW IS LOADED AT RUNTIME AND IS NOT STORED IN THE CODE.
 
